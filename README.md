@@ -1,49 +1,57 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/miguel-viana.svg" width="1120" alt="Miguel Viana. Da interface ao que faz tudo funcionar. Desenvolvimento full stack, mapas e IA." />
+</p>
 
-# Miguel Viana
+<p align="center">
+  <a href="#projeto-em-foco">VANO Maps</a> &nbsp; / &nbsp;
+  <a href="#outros-projetos">Projetos</a> &nbsp; / &nbsp;
+  <a href="#tecnologias">Tecnologias</a> &nbsp; / &nbsp;
+  <a href="mailto:sac.vertice.web@gmail.com">Contato</a>
+</p>
 
-**Desenvolvedor Full Stack · Engenharia de Produto · Mapas & IA**
+Sou **Miguel Viana**, desenvolvedor full stack. Trabalho com aplicações web, APIs e produtos com mapas. Gosto de acompanhar o projeto inteiro: desenhar a interface, construir o backend e entender o que precisa melhorar depois que alguém começa a usar.
 
-Transformo ideias em produtos digitais, unindo **experiência de uso, backend e infraestrutura**.
+Hoje, meu foco principal é o **VANO Maps**. É onde trabalho mais de perto com geolocalização, navegação e os detalhes de uma interface usada em movimento.
+
+### Projeto em foco
+
+#### [VANO Maps ↗](https://vanomaps.online)
+
+Aplicação de navegação com busca de destinos, rotas alternativas, orientação durante o trajeto e alertas comunitários. O projeto reúne mapa, preferências de viagem e contexto da via em uma experiência para web e Android.
+
+**O que desenvolvo por aqui:** câmera de navegação, recálculo de rotas, integração com provedores de mapas e polimento da experiência no celular.
+
+`Python` · `Flask` · `JavaScript` · `PostgreSQL` · `Mapbox`
 
 [![VANO Maps](https://img.shields.io/badge/VANO%20Maps-Ver%20produto-2563EB?style=flat-square)](https://vanomaps.online)
-[![Projetos](https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=flat-square&logo=github)](https://github.com/miguel027dev?tab=repositories)
-[![Contato](https://img.shields.io/badge/Contato-E--mail-0F766E?style=flat-square)](mailto:sac.vertice.web@gmail.com)
+[Explorar o repositório →](https://github.com/miguel027dev/vano)
 
-</div>
+### Outros projetos
 
----
-
-### O que eu faço
-
-Desenvolvo aplicações web e mobile, APIs e experiências interativas, com atenção à **arquitetura, performance, UX e evolução contínua**. Tenho interesse especial em geolocalização, sistemas de navegação e IA aplicada a problemas reais.
-
-### Projetos em destaque
-
-| Projeto | O que estou construindo | Links |
-| --- | --- | --- |
-| **VANO Maps** | Navegação com rotas alternativas, contexto viário e experiência adaptativa. | [Produto](https://vanomaps.online) · [Código](https://github.com/miguel027dev/vano) |
-| **TYVON** | Aplicação de treinos com interface React, API Flask e recursos de IA. | [Código](https://github.com/miguel027dev/tyvon) |
-| **Flash Stock ERP** | Plataforma de gestão com catálogo, estoque, pedidos e painel administrativo. | [Código](https://github.com/miguel027dev/flashstockpainel) |
-| **Transfer Master** | Sistema web voltado a dados, scouting e gestão no futebol. | [Código](https://github.com/miguel027dev/mastertransfer) |
+| Projeto | Aplicação | Tecnologias |
+| :--- | :--- | :--- |
+| **[TYVON](https://github.com/miguel027dev/tyvon)** | Treinos, registro de séries e assistente com IA. | React · Vite · Flask · PostgreSQL |
+| **[Flash Stock ERP](https://github.com/miguel027dev/flashstockpainel)** | Loja e catálogo integrados à gestão de estoque, pedidos e clientes. | Flask · Jinja · SQLite |
+| **[Transfer Master](https://github.com/miguel027dev/mastertransfer)** | Aplicação para futebol e scouting, com interface React e autenticação no backend. | React · Flask · SQLite |
+| **[BRASA 91](https://github.com/miguel027dev/brasa91)** | Demonstração de presença digital para uma hamburgueria, com identidade visual própria. | HTML · CSS · JavaScript |
 
 ### Tecnologias
 
-**Frontend:** JavaScript · React · HTML · CSS  
-**Backend:** Python · Flask · PostgreSQL · SQLite · APIs REST  
-**Produto & infraestrutura:** Mapbox · Git · Linux · Render · UI/UX
+**Interface** &nbsp; JavaScript, React, HTML e CSS.  
+**Backend e dados** &nbsp; Python, Flask, APIs REST, PostgreSQL e SQLite.  
+**Mapas e infraestrutura** &nbsp; Mapbox, Git, Linux, Gunicorn e Render.
 
-### Como trabalho
+Escolho a stack conforme o projeto. No TYVON, uso React com Vite; no VANO, a base principal combina Flask, templates e JavaScript.
 
-**Entender o problema → projetar → desenvolver → testar → melhorar.**  
-Prefiro soluções funcionais, interfaces claras e código que possa continuar evoluindo.
+### Como eu trabalho
+
+Gosto de testar o fluxo completo e voltar nos detalhes: o texto de um botão, o movimento da câmera, o tempo de uma resposta. É nessa revisão que encontro boa parte do que precisa mudar.
+
+Também desenvolvo sites e sistemas comerciais pela **Vértice Web**.
 
 ---
 
-<div align="center">
+**Tem um projeto em mente?** [Fale comigo](mailto:sac.vertice.web@gmail.com).
 
-**Vamos conversar sobre tecnologia ou projetos?**
-
-[Contato profissional](mailto:sac.vertice.web@gmail.com) · [Repositórios](https://github.com/miguel027dev?tab=repositories)
-
-</div>
+[![Projetos](https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=flat-square&logo=github)](https://github.com/miguel027dev?tab=repositories)
+[![Contato](https://img.shields.io/badge/Contato-E--mail-0F766E?style=flat-square)](mailto:sac.vertice.web@gmail.com)
