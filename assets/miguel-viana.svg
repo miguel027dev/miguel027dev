@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="340" viewBox="0 0 1120 340" role="img" aria-labelledby="title desc">
+  <title id="title">Miguel Viana — Desenvolvimento de produtos digitais</title>
+  <desc id="desc">Identidade em grafite e marfim, com um caminho laranja que forma a letra M. Desenvolvimento full stack, mapas e inteligência artificial.</desc>
+  <rect width="1120" height="340" rx="20" fill="#141716"/>
+  <path d="M40 48H1080M40 292H1080" stroke="#343A35"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="87" fill="#AEB7AD" font-size="14" letter-spacing="3">DESENVOLVIMENTO DE PRODUTOS DIGITAIS</text>
+    <text x="44" y="180" fill="#F4F1E8" font-size="76" font-weight="700" letter-spacing="-4">Miguel Viana.</text>
+    <text x="48" y="226" fill="#C3C9BE" font-size="24">Da interface ao que faz tudo funcionar.</text>
+    <text x="48" y="318" fill="#AEB7AD" font-size="13" letter-spacing="2">FULL STACK / MAPAS / IA</text>
+    <text x="1072" y="318" fill="#AEB7AD" font-size="13" letter-spacing="2" text-anchor="end">MIGUEL027DEV</text>
+  </g>
+  <g fill="none" stroke="#343A35" stroke-width="1">
+    <rect x="835" y="75" width="220" height="190" rx="12"/>
+    <path d="M890 75V265M945 75V265M1000 75V265M835 122H1055M835 170H1055M835 218H1055"/>
+  </g>
+  <path d="M862 239V111L945 202L1028 111V239" fill="none" stroke="#FF8A4C" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="862" cy="239" r="10" fill="#F4F1E8" stroke="#141716" stroke-width="5"/>
+  <circle cx="1028" cy="239" r="10" fill="#F4F1E8" stroke="#141716" stroke-width="5"/>
+</svg>
