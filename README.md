@@ -29,7 +29,7 @@ Desenvolvo aplicações web e mobile, APIs e experiências interativas, com aten
 
 ### Tecnologias
 
-**Frontend:** JavaScript · TypeScript · React · HTML · CSS  
+**Frontend:** JavaScript · React · HTML · CSS  
 **Backend:** Python · Flask · PostgreSQL · SQLite · APIs REST  
 **Produto & infraestrutura:** Mapbox · Git · Linux · Render · UI/UX
 
