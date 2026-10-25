@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devmiguel.online">Portfólio</a> ·
+  <a href="http://devmiguel.online">Portfólio</a> ·
   <a href="https://vanomaps.online">Vano</a> ·
   <a href="mailto:miguelpinxs@gmail.com">Contato</a>
 </p>
@@ -26,7 +26,7 @@ Desenvolvo a identidade do produto, a interface, os serviços de rota e o backen
 | [Flash Stock](https://github.com/miguel027dev/flashstockpainel) | Loja e catálogo integrados à gestão de produtos, estoque, pedidos e clientes. |
 | [Transfer Master](https://github.com/miguel027dev/mastertransfer) | Ferramenta para futebol e scouting com interface React e backend de autenticação. |
 | [La Cantine Portugaise](https://miguel027dev.github.io/la-cantine-portugaise/) | Conceito independente e não oficial de site para cardápio, localização e reservas. |
-| [BRASA 91](https://devmiguel.online/live/brasa91/index.html) · [Pingo Pet](https://devmiguel.online/live/pingo-pet/index.html) | Demonstrações navegáveis de sites comerciais. |
+| [BRASA 91](http://devmiguel.online/live/brasa91/index.html) · [Pingo Pet](http://devmiguel.online/live/pingo-pet/index.html) | Demonstrações navegáveis de sites comerciais. |
 
 ## Como trabalho
 
@@ -36,4 +36,4 @@ Começo pelo fluxo que a pessoa precisa completar. Construo interface, APIs e da
 **Serviços e dados:** Python, Flask, APIs, PostgreSQL e SQLite.  
 **Produto e operação:** Mapas, integrações, testes, Git e Render.
 
-Veja o [portfólio completo](https://devmiguel.online) ou escreva para **[miguelpinxs@gmail.com](mailto:miguelpinxs@gmail.com)**.
+Veja o [portfólio completo](http://devmiguel.online) ou escreva para **[miguelpinxs@gmail.com](mailto:miguelpinxs@gmail.com)**.
