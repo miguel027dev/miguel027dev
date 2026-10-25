@@ -1,22 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="340" viewBox="0 0 1120 340" role="img" aria-labelledby="title desc">
-  <title id="title">Miguel Viana — produto, interface e engenharia</title>
-  <desc id="desc">Identidade em papel claro e grafite, com uma linha laranja inspirada nas rotas do Vano.</desc>
-  <rect width="1120" height="340" fill="#f7f4ef"/>
-  <path d="M40 42H1080M40 298H1080" stroke="#dcd6cd"/>
+  <title id="title">Miguel Viana — Desenvolvimento de produtos digitais</title>
+  <desc id="desc">Identidade em grafite e marfim, com um caminho laranja que forma a letra M. Desenvolvimento full stack, mapas e inteligência artificial.</desc>
+  <rect width="1120" height="340" rx="20" fill="#141716"/>
+  <path d="M40 48H1080M40 292H1080" stroke="#343A35"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="46" y="79" fill="#625f59" font-size="14" font-weight="700" letter-spacing="2">PRODUTO, INTERFACE E ENGENHARIA</text>
-    <text x="40" y="186" fill="#242320" font-size="79" font-weight="700" letter-spacing="-5">Miguel Viana.</text>
-    <text x="45" y="238" fill="#625f59" font-size="22">Ideias ganham direção.</text>
-    <text x="46" y="324" fill="#625f59" font-size="13">SÃO PAULO · BRASIL</text>
-    <text x="1076" y="324" fill="#625f59" font-size="13" text-anchor="end">DEVMIGUEL.ONLINE</text>
+    <text x="48" y="87" fill="#AEB7AD" font-size="14" letter-spacing="3">DESENVOLVIMENTO DE PRODUTOS DIGITAIS</text>
+    <text x="44" y="180" fill="#F4F1E8" font-size="76" font-weight="700" letter-spacing="-4">Miguel Viana.</text>
+    <text x="48" y="226" fill="#C3C9BE" font-size="24">Da interface ao que faz tudo funcionar.</text>
+    <text x="48" y="318" fill="#AEB7AD" font-size="13" letter-spacing="2">FULL STACK / MAPAS / IA</text>
+    <text x="1072" y="318" fill="#AEB7AD" font-size="13" letter-spacing="2" text-anchor="end">MIGUEL027DEV</text>
   </g>
-  <g transform="translate(836 70)">
-    <rect width="224" height="194" fill="#222623"/>
-    <path d="M-2 156C45 165 54 105 102 116S166 69 224 33" stroke="#5a6259" stroke-width="24" fill="none" stroke-linecap="round"/>
-    <path d="M-2 156C45 165 54 105 102 116S166 69 224 33" stroke="#f4f3ed" stroke-width="18" fill="none" stroke-linecap="round"/>
-    <path d="M-2 156C45 165 54 105 102 116S166 69 224 33" stroke="#da7545" stroke-width="5" fill="none" stroke-linecap="round"/>
-    <circle cx="102" cy="116" r="10" fill="#f7f4ef"/><circle cx="102" cy="116" r="5" fill="#da7545"/>
-    <circle cx="206" cy="43" r="10" fill="#f7f4ef"/><circle cx="206" cy="43" r="5" fill="#da7545"/>
-    <text x="18" y="36" fill="#f7f4ef" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="-1">VANO</text>
+  <g fill="none" stroke="#343A35" stroke-width="1">
+    <rect x="835" y="75" width="220" height="190" rx="12"/>
+    <path d="M890 75V265M945 75V265M1000 75V265M835 122H1055M835 170H1055M835 218H1055"/>
   </g>
+  <path d="M862 239V111L945 202L1028 111V239" fill="none" stroke="#FF8A4C" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="862" cy="239" r="10" fill="#F4F1E8" stroke="#141716" stroke-width="5"/>
+  <circle cx="1028" cy="239" r="10" fill="#F4F1E8" stroke="#141716" stroke-width="5"/>
 </svg>
